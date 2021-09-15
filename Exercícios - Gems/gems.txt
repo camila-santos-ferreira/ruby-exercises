@@ -1,0 +1,4 @@
+Comando para listar as gems instaladas
+
+==> gem list
+
